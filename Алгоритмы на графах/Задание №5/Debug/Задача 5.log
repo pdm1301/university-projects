@@ -1,0 +1,23 @@
+﻿Сборка начата 7/1/2017 10:10:58 PM.
+     1>Проект "D:\Danil\Учёба\Алгоритмы на графах\Задача 5\Задача 5.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\Danil\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\danil\учёба\алгоритмы на графах\задача 5\main.cpp(37): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     1>d:\danil\учёба\алгоритмы на графах\задача 5\main.cpp(38): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     1>d:\danil\учёба\алгоритмы на графах\задача 5\main.cpp(39): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     1>d:\danil\учёба\алгоритмы на графах\задача 5\main.cpp(133): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\danil\учёба\алгоритмы на графах\задача 5\main.cpp(148): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\danil\учёба\алгоритмы на графах\задача 5\main.cpp(159): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\danil\учёба\алгоритмы на графах\задача 5\main.cpp(213): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\danil\учёба\алгоритмы на графах\задача 5\main.cpp(218): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\danil\учёба\алгоритмы на графах\задача 5\main.cpp(223): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\danil\учёба\алгоритмы на графах\задача 5\main.cpp(226): warning C4018: <: несоответствие типов со знаком и без знака
+       Link:
+         D:\Danil\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Danil\Учёба\Алгоритмы на графах\Задача 5\Debug\Задача 5.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Danil\Учёба\Алгоритмы на графах\Задача 5\Debug\Задача 5.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Danil\Учёба\Алгоритмы на графах\Задача 5\Debug\Задача 5.lib" /MACHINE:X86 Debug\main.obj
+         Задача 5.vcxproj -> D:\Danil\Учёба\Алгоритмы на графах\Задача 5\Debug\Задача 5.exe
+     1>Сборка проекта "D:\Danil\Учёба\Алгоритмы на графах\Задача 5\Задача 5.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.96
