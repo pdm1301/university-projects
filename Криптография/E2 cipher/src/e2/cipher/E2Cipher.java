@@ -172,16 +172,7 @@ public class E2Cipher {
             
             long mod=(long)pow(2,32);
             long X=solveCompare(Bi,Yi,mod);
-            /*long X=1;
-            int add=1;
-            long temp=(X*Bi)%mod;
-            if((Bi%2 ==1) && (Yi%2==1))
-                add=2;
-            while(temp!=Yi){
-                X+=add;
-                temp=(X*Bi)%mod;
-            }
-            */
+            
             BitSet Xi=(BitSet)toBitset(X,32).clone();
             for(int j=0; j<32; j++)
                 result.set(i*32 +j,Xi.get(j));
